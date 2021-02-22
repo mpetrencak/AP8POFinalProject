@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace AP8PO.Enums
+namespace AP8PO
 {
     //Typ studia
-    enum StudyType
+    public enum StudyType
     {
         Bc,                     //Bakalařský   
         Mgr,                    //Magisterský

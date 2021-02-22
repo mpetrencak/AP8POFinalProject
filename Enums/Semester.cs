@@ -4,10 +4,9 @@ using System.Text;
 
 namespace AP8PO
 {
-    //Jazyk
-    public enum Language
+    public enum Semester
     {
-        CZ,
-        EN
+        Winter,
+        Summer
     }
 }
