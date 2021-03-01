@@ -4,6 +4,7 @@ using System.Text;
 
 namespace AP8PO
 {
+    //Zaměstnanec 
     public class Employee
     {
         string FirstName { get; set; }
